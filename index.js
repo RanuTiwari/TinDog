@@ -1,0 +1,1 @@
+alert("This is a sample website made by using HTML, CSS and JavaScript for buying dogs online. ")
